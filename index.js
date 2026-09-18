@@ -1,5 +1,6 @@
 function bilgisayarinHazirMi() {
   const checklist = {
+    // Bilgisayar ve geliştirme ortamı bilgileri
     // GitHub hesabınızın url'i: örn. "github: 'https://github.com/Workintech'"
     github: 'https://github.com/emreyagan1',
 
