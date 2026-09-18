@@ -1,13 +1,13 @@
 function bilgisayarinHazirMi() {
   const checklist = {
     // GitHub hesabınızın url'i: örn. "github: 'https://github.com/Workintech'"
-    github: '',
+    github: 'https://github.com/emreyagan1',
 
     // İşletim sisteminiz ["mac", "windows", "linux"]'tan biri: örn. "computer: 'mac'"
-    computer: '',
+    computer: 'mac',
 
     // Vscode'unuzn versiyon numarası: örn. "vscode_version: '1.84.2'"
-    vscode_version: '',
+    vscode_version: '1.124.2',
 
     // Node versiyon numarası: örn. "node_version: 'v16.13.0'"
     node_version: '',
